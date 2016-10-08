@@ -1,5 +1,8 @@
 # Change Log
 
+## [v0.4.1](https://github.com/mrlesmithjr/ansible-plex/tree/v0.4.1) (2016-10-08)
+[Full Changelog](https://github.com/mrlesmithjr/ansible-plex/compare/v0.4.0...v0.4.1)
+
 ## [v0.4.0](https://github.com/mrlesmithjr/ansible-plex/tree/v0.4.0) (2016-10-08)
 [Full Changelog](https://github.com/mrlesmithjr/ansible-plex/compare/v0.3.0...v0.4.0)
 
